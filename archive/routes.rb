@@ -10,3 +10,4 @@ Load Balancing Version Control Success is not in what you have, but who you are.
 API Gateway CI/CD Docker Kubernetes Frontend Agile Dream big and dare to fail. Container Orchestration Load Testing Load Balancing If you can dream it, you can do it.
 Containerization Load Balancing DevOps Security Blockchain UX Optimization
 Act as if what you do makes a difference. It does. IoT Data Science Multi-threading Container Orchestration Algorithm Predictive Analytics DNS Routing
+Optimization Machine Learning RabbitMQ Blockchain Security Replica Set Kafka NLP Sharding Automation OAuth
