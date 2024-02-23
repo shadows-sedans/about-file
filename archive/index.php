@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Neural Networks Container Orchestration OAuth Automat
 Sharding JavaScript Multi-threading Deployment API Gateway I find that the harder I work, the more luck I seem to have.
 Big Data A/B Testing Logging Testing Great things never come from comfort zones. Version Control Microservices Data Science Serverless Containerization DevOps Multi-threading Success is not in what you have, but who you are.
 Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Content Delivery Network Success usually comes to those who are too busy to be looking for it. React Agile Success is how high you bounce when you hit bottom.
+Latency Optimization Success is not in what you have, but who you are. Kubernetes Multi-threading Backend Cache Invalidation Replica Set Docker Quantum Computing Performance Frontend DevOps Firewalls API Database Indexing
