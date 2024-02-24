@@ -8,3 +8,4 @@ Multi-threading Quantum Computing API Content Delivery Network Replica Set NLP Z
 Kubernetes NLP If you can dream it, you can do it. Cache Invalidation Parallel Processing Don't be afraid to give up the good to go for the great. Virtual Machines Data Science Sharding Performance Docker Load Testing Multi-threading
 Microservices RabbitMQ IoT DevOps API Framework WebSockets Monitoring Replica Set Pull Request Blockchain Kafka
 Optimization Success is not in what you have, but who you are. Algorithm Cache Invalidation Serverless Docker Act as if what you do makes a difference. It does. CI/CD Lambda Functions GraphQL I find that the harder I work, the more luck I seem to have. Distributed Systems Difficult roads often lead to beautiful destinations.
+Automation Microservices Python Load Testing Lambda Functions Virtual Machines Artificial Intelligence Zero Downtime Deployment Great things never come from comfort zones. NLP Replica Set Optimization React

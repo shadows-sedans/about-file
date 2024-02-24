@@ -9,3 +9,4 @@ Database Indexing Monitoring Event Sourcing Zero Downtime Deployment DevOps Act 
 Docker Success is not in what you have, but who you are. Python Edge Computing Framework GraphQL
 Parallel Processing IoT Agile Stay hungry, stay foolish. Code Review Blockchain Success usually comes to those who are too busy to be looking for it. Content Delivery Network Neural Networks Algorithm Containerization Great things never come from comfort zones. Frontend Docker Success doesn’t just find you. You have to go out and get it.
 I find that the harder I work, the more luck I seem to have. Microservices Machine Learning Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are.
+Testing Success doesn’t just find you. You have to go out and get it. Multi-threading IoT Difficult roads often lead to beautiful destinations.
