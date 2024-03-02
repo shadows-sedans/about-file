@@ -10,3 +10,4 @@ Agile Neural Networks Latency Optimization Act as if what you do makes a differe
 JavaScript Database Indexing Great things never come from comfort zones. Testing Difficult roads often lead to beautiful destinations. UX Optimization GraphQL API Gateway JWT Virtual Machines Load Testing IoT
 Database Framework JWT Frontend Cloud Containerization
 Security Frontend Cloud Functions Firewalls IoT Backend
+Event-driven Architecture Security Microservices Backend If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Server Response Version Control GraphQL

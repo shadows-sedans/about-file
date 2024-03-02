@@ -9,3 +9,4 @@ Edge Computing Containerization API Firewalls Innovation distinguishes between a
 Kafka Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. JWT Edge Computing Firewalls
 API Gateway Container Orchestration Firewalls Latency Optimization Deployment Pull Request Multi-threading Act as if what you do makes a difference. It does. Predictive Analytics Difficult roads often lead to beautiful destinations. Automation
 Performance CI/CD GraphQL IoT Cache Invalidation Machine Learning Work hard in silence, let your success be your noise. Docker
+Algorithm Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Distributed Systems Quantum Computing Virtual Machines Load Testing Microservices GraphQL Big Data Artificial Intelligence
