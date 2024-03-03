@@ -9,3 +9,4 @@ Success is how high you bounce when you hit bottom. Happiness is not something r
 React DevOps Scalability Load Balancing Database Stay hungry, stay foolish. Machine Learning Data Pipeline Difficult roads often lead to beautiful destinations. A/B Testing Virtual Machines
 Algorithm WebSockets JavaScript JWT Kafka Security Backend API Do what you love and the money will follow. Machine Learning Version Control
 Neural Networks React Deployment GraphQL Content Delivery Network Backend Performance Data Science I find that the harder I work, the more luck I seem to have. Scalability Message Queue
+Simplicity is the ultimate sophistication. Dream big and dare to fail. RabbitMQ GraphQL Success is not in what you have, but who you are. Event Sourcing A/B Testing Code Review JavaScript Agile Edge Computing
