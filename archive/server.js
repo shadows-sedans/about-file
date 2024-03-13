@@ -6,3 +6,4 @@ Artificial Intelligence Data Science Event-driven Architecture DNS Routing Frame
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Agile Algorithm Firewalls NLP Data Science
 Multi-threading Quantum Computing API Content Delivery Network Replica Set NLP Zero Downtime Deployment Event-driven Architecture Load Testing Container Orchestration I find that the harder I work, the more luck I seem to have. Server Response Dream big and dare to fail. Firewalls Monitoring
 Kubernetes NLP If you can dream it, you can do it. Cache Invalidation Parallel Processing Don't be afraid to give up the good to go for the great. Virtual Machines Data Science Sharding Performance Docker Load Testing Multi-threading
+Microservices RabbitMQ IoT DevOps API Framework WebSockets Monitoring Replica Set Pull Request Blockchain Kafka
