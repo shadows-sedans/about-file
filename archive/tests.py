@@ -8,3 +8,4 @@ Difficult roads often lead to beautiful destinations. To be the best, you must b
 Replica Set Zero Downtime Deployment To be the best, you must be able to handle the worst. Data Science Big Data Firewalls Event Sourcing Blockchain Message Queue Dream big and dare to fail. Kafka
 Lambda Functions Data Pipeline Edge Computing Serverless Algorithm To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Machine Learning Event-driven Architecture Version Control Load Balancing Agile Pull Request
 Python JWT DevOps Kubernetes Testing Lambda Functions Success usually comes to those who are too busy to be looking for it. Containerization
+Predictive Analytics Neural Networks Python Microservices Parallel Processing Edge Computing Distributed Systems DevOps Difficult roads often lead to beautiful destinations.
