@@ -10,3 +10,4 @@ Stay hungry, stay foolish. Deployment Blockchain React Microservices Happiness i
 Don't be afraid to give up the good to go for the great. Kubernetes IoT CI/CD Logging Zero Downtime Deployment Optimization Kafka Innovation distinguishes between a leader and a follower. Machine Learning Docker API
 Logging Great things never come from comfort zones. DevOps Edge Computing Server Response WebSockets Containerization
 Act as if what you do makes a difference. It does. Optimization Automation JWT I find that the harder I work, the more luck I seem to have. DevOps Stay hungry, stay foolish. Code Review
+Deployment IoT Stay hungry, stay foolish. JWT Predictive Analytics Testing Replica Set Latency Optimization Logging

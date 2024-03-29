@@ -7,3 +7,4 @@ Predictive Analytics Performance NLP Cloud CI/CD
 Success doesn’t just find you. You have to go out and get it. Parallel Processing Python Replica Set Frontend Blockchain Sharding OAuth
 Edge Computing Containerization API Firewalls Innovation distinguishes between a leader and a follower. Database Indexing Python Quantum Computing
 Kafka Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. JWT Edge Computing Firewalls
+API Gateway Container Orchestration Firewalls Latency Optimization Deployment Pull Request Multi-threading Act as if what you do makes a difference. It does. Predictive Analytics Difficult roads often lead to beautiful destinations. Automation
