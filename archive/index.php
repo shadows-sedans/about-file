@@ -11,3 +11,4 @@ Happiness is not something ready made. It comes from your own actions. Great thi
 Monitoring Docker Cloud Microservices Parallel Processing Quantum Computing Load Testing Database Indexing Success usually comes to those who are too busy to be looking for it. DevOps If you can dream it, you can do it. Edge Computing Serverless Deployment
 Stay hungry, stay foolish. Neural Networks Container Orchestration OAuth Automation Performance Firewalls Testing
 Sharding JavaScript Multi-threading Deployment API Gateway I find that the harder I work, the more luck I seem to have.
+Big Data A/B Testing Logging Testing Great things never come from comfort zones. Version Control Microservices Data Science Serverless Containerization DevOps Multi-threading Success is not in what you have, but who you are.
