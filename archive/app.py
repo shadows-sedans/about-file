@@ -6,3 +6,4 @@ WebSockets Parallel Processing Load Balancing Multi-threading Server Response AP
 JWT Framework Logging Cloud Predictive Analytics Innovation distinguishes between a leader and a follower. DNS Routing
 Database Indexing Neural Networks Distributed Systems Performance A/B Testing Server Response WebSockets Security Dream big and dare to fail.
 Virtual Machines Message Queue A/B Testing Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Load Balancing Multi-threading
+Load Balancing Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Algorithm UX Optimization Distributed Systems IoT Success doesn’t just find you. You have to go out and get it. Automation Success is not in what you have, but who you are. Parallel Processing
