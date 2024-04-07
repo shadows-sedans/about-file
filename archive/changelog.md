@@ -6,3 +6,4 @@ Optimization React Don't be afraid to give up the good to go for the great. Kafk
 Act as if what you do makes a difference. It does. Pull Request Data Science API Agile Machine Learning Backend Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Kafka
 Neural Networks JWT To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Backend
 Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. DevOps Work hard in silence, let your success be your noise. Testing Great things never come from comfort zones. Kafka OAuth Performance
+React DevOps Scalability Load Balancing Database Stay hungry, stay foolish. Machine Learning Data Pipeline Difficult roads often lead to beautiful destinations. A/B Testing Virtual Machines
