@@ -8,3 +8,4 @@ Lambda Functions Content Delivery Network Kubernetes RabbitMQ Happiness is not s
 Quantum Computing API DNS Routing NLP Code Review Optimization Database UX Optimization Distributed Systems Blockchain
 Agile Neural Networks Latency Optimization Act as if what you do makes a difference. It does. Framework Server Response
 JavaScript Database Indexing Great things never come from comfort zones. Testing Difficult roads often lead to beautiful destinations. UX Optimization GraphQL API Gateway JWT Virtual Machines Load Testing IoT
+Database Framework JWT Frontend Cloud Containerization
