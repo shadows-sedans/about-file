@@ -5,3 +5,4 @@ Cloud DNS Routing Latency Optimization JavaScript Act as if what you do makes a 
 WebSockets Parallel Processing Load Balancing Multi-threading Server Response API Lambda Functions Deployment Message Queue Distributed Systems Predictive Analytics To be the best, you must be able to handle the worst. Data Pipeline
 JWT Framework Logging Cloud Predictive Analytics Innovation distinguishes between a leader and a follower. DNS Routing
 Database Indexing Neural Networks Distributed Systems Performance A/B Testing Server Response WebSockets Security Dream big and dare to fail.
+Virtual Machines Message Queue A/B Testing Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Load Balancing Multi-threading

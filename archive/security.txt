@@ -10,3 +10,4 @@ Kafka Testing Load Testing Database Deployment Code Review Performance Monitorin
 Edge Computing DNS Routing Innovation distinguishes between a leader and a follower. Docker Predictive Analytics Quantum Computing
 DevOps Cloud Functions Data Science DNS Routing Agile Data Pipeline Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
 DNS Routing GraphQL Dream big and dare to fail. Great things never come from comfort zones. JWT Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Deployment Database Logging OAuth Do what you love and the money will follow.
+Firewalls Distributed Systems Message Queue Dream big and dare to fail. DNS Routing A/B Testing Monitoring Version Control I find that the harder I work, the more luck I seem to have. GraphQL
