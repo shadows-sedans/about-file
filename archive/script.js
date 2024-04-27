@@ -5,3 +5,4 @@ Scalability Load Testing Lambda Functions A/B Testing Database Indexing RabbitMQ
 Frontend Load Testing Load Balancing Edge Computing To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Distributed Systems CI/CD NLP
 Work hard in silence, let your success be your noise. API Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Replica Set Testing WebSockets
 React JWT Optimization Event-driven Architecture Neural Networks Frontend Multi-threading I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. OAuth Serverless
+Optimization Logging Cloud Virtual Machines Blockchain Backend Difficult roads often lead to beautiful destinations. Load Testing Success doesn’t just find you. You have to go out and get it. Pull Request
