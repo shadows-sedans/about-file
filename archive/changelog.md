@@ -4,3 +4,4 @@ Dream big and dare to fail. Data Science Zero Downtime Deployment Kafka Sharding
 DevOps Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Cache Invalidation Predictive Analytics Content Delivery Network
 Optimization React Don't be afraid to give up the good to go for the great. Kafka Big Data Pull Request Event Sourcing Innovation distinguishes between a leader and a follower.
 Act as if what you do makes a difference. It does. Pull Request Data Science API Agile Machine Learning Backend Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Kafka
+Neural Networks JWT To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Backend
