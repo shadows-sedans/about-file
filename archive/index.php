@@ -8,3 +8,4 @@ RabbitMQ Framework Act as if what you do makes a difference. It does. Microservi
 Pull Request Parallel Processing Code Review CI/CD Load Testing A/B Testing Testing
 Backend Frontend Dream big and dare to fail. API Great things never come from comfort zones. Load Testing NLP Simplicity is the ultimate sophistication. React Pull Request OAuth RabbitMQ IoT Success is how high you bounce when you hit bottom. UX Optimization
 Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Cloud Functions Monitoring Message Queue Big Data Framework
+Monitoring Docker Cloud Microservices Parallel Processing Quantum Computing Load Testing Database Indexing Success usually comes to those who are too busy to be looking for it. DevOps If you can dream it, you can do it. Edge Computing Serverless Deployment
