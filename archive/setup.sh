@@ -9,3 +9,4 @@ Serverless Monitoring Pull Request Stay hungry, stay foolish. Cloud Functions Ca
 Replica Set Python Event Sourcing Blockchain A/B Testing Monitoring Automation Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Performance
 Stay hungry, stay foolish. Load Balancing GraphQL Backend Do what you love and the money will follow. JWT Load Testing Containerization Docker Replica Set Zero Downtime Deployment
 Cloud NLP Lambda Functions Neural Networks Latency Optimization The only way to do great work is to love what you do. Kubernetes Serverless Cache Invalidation Security
+Version Control Code Review Success doesn’t just find you. You have to go out and get it. Database To be the best, you must be able to handle the worst. Scalability Docker
