@@ -7,3 +7,4 @@ Virtual Machines Difficult roads often lead to beautiful destinations. Data Pipe
 DevOps Load Balancing Serverless Performance DNS Routing Distributed Systems
 Blockchain GraphQL Testing Artificial Intelligence Edge Computing Serverless Optimization Scalability API Python
 Code Review Distributed Systems Act as if what you do makes a difference. It does. Neural Networks Logging OAuth Kafka Machine Learning Kubernetes Work hard in silence, let your success be your noise. Scalability Automation
+Monitoring Frontend GraphQL Dream big and dare to fail. The only way to do great work is to love what you do. Kafka I find that the harder I work, the more luck I seem to have. Framework Containerization Work hard in silence, let your success be your noise. Edge Computing
