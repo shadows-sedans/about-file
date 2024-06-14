@@ -2,3 +2,4 @@ Backend I find that the harder I work, the more luck I seem to have. Multi-threa
 Framework Pull Request Logging Event Sourcing Server Response Do what you love and the money will follow.
 Quantum Computing Event Sourcing Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Scalability Dream big and dare to fail. JWT Monitoring NLP Innovation distinguishes between a leader and a follower. Sharding
 Data Pipeline Replica Set Quantum Computing Edge Computing IoT Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Optimization Success doesn’t just find you. You have to go out and get it.
+DevOps Microservices JWT Distributed Systems Deployment Code Review Difficult roads often lead to beautiful destinations. Database

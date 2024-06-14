@@ -6,3 +6,4 @@ Event-driven Architecture Backend Cache Invalidation Event Sourcing Blockchain A
 React Distributed Systems Algorithm Dream big and dare to fail. Blockchain Cloud Framework
 RabbitMQ Framework Act as if what you do makes a difference. It does. Microservices WebSockets Success doesn’t just find you. You have to go out and get it. Optimization GraphQL If you can dream it, you can do it.
 Pull Request Parallel Processing Code Review CI/CD Load Testing A/B Testing Testing
+Backend Frontend Dream big and dare to fail. API Great things never come from comfort zones. Load Testing NLP Simplicity is the ultimate sophistication. React Pull Request OAuth RabbitMQ IoT Success is how high you bounce when you hit bottom. UX Optimization
