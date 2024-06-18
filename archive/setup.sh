@@ -7,3 +7,4 @@ RabbitMQ Lambda Functions Success doesn’t just find you. You have to go out and 
 Code Review Agile Firewalls NLP Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Python Optimization
 Serverless Monitoring Pull Request Stay hungry, stay foolish. Cloud Functions Cache Invalidation Content Delivery Network Data Pipeline API
 Replica Set Python Event Sourcing Blockchain A/B Testing Monitoring Automation Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Performance
+Stay hungry, stay foolish. Load Balancing GraphQL Backend Do what you love and the money will follow. JWT Load Testing Containerization Docker Replica Set Zero Downtime Deployment
