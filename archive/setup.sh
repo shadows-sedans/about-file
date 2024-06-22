@@ -6,3 +6,4 @@ Zero Downtime Deployment Happiness is not something ready made. It comes from yo
 RabbitMQ Lambda Functions Success doesn’t just find you. You have to go out and get it. Serverless Testing Success usually comes to those who are too busy to be looking for it. Firewalls To be the best, you must be able to handle the worst. Cache Invalidation Load Testing Multi-threading IoT Distributed Systems Simplicity is the ultimate sophistication. Machine Learning
 Code Review Agile Firewalls NLP Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Python Optimization
 Serverless Monitoring Pull Request Stay hungry, stay foolish. Cloud Functions Cache Invalidation Content Delivery Network Data Pipeline API
+Replica Set Python Event Sourcing Blockchain A/B Testing Monitoring Automation Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Performance
