@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Multi-threading Don't be a
 Deployment Monitoring Server Response NLP Container Orchestration Logging Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. UX Optimization Big Data Innovation distinguishes between a leader and a follower. Serverless Version Control Multi-threading
 CI/CD Zero Downtime Deployment Message Queue OAuth Content Delivery Network Event-driven Architecture Algorithm Replica Set The only way to do great work is to love what you do.
 Sharding Lambda Functions Version Control Server Response Scalability Event-driven Architecture Content Delivery Network Cache Invalidation Stay hungry, stay foolish. Parallel Processing Data Science
+DNS Routing A/B Testing Innovation distinguishes between a leader and a follower. Code Review Backend Predictive Analytics GraphQL Lambda Functions Event Sourcing UX Optimization Parallel Processing

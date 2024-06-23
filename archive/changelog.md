@@ -2,3 +2,4 @@ API Gateway Pull Request WebSockets Success doesn’t just find you. You have to g
 DevOps Success doesn’t just find you. You have to go out and get it. Pull Request Frontend Latency Optimization Data Pipeline Stay hungry, stay foolish.
 Dream big and dare to fail. Data Science Zero Downtime Deployment Kafka Sharding Logging Version Control Blockchain
 DevOps Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Cache Invalidation Predictive Analytics Content Delivery Network
+Optimization React Don't be afraid to give up the good to go for the great. Kafka Big Data Pull Request Event Sourcing Innovation distinguishes between a leader and a follower.
