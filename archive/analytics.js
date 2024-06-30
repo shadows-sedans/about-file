@@ -5,3 +5,4 @@ Server Response Big Data If you can dream it, you can do it. Act as if what you 
 Code Review Kafka Serverless Edge Computing The only way to do great work is to love what you do.
 Predictive Analytics Performance NLP Cloud CI/CD
 Success doesn’t just find you. You have to go out and get it. Parallel Processing Python Replica Set Frontend Blockchain Sharding OAuth
+Edge Computing Containerization API Firewalls Innovation distinguishes between a leader and a follower. Database Indexing Python Quantum Computing
