@@ -7,3 +7,4 @@ Optimization Content Delivery Network OAuth Success doesn’t just find you. You h
 Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. WebSockets GraphQL Big Data Event Sourcing Database OAuth Latency Optimization UX Optimization The only way to do great work is to love what you do. Success is not in what you have, but who you are. Testing Algorithm
 Backend Parallel Processing The only way to do great work is to love what you do. Success is not in what you have, but who you are. Predictive Analytics Pull Request Docker Scalability Do what you love and the money will follow.
 Kafka Testing Load Testing Database Deployment Code Review Performance Monitoring Cloud Functions Load Balancing React
+Edge Computing DNS Routing Innovation distinguishes between a leader and a follower. Docker Predictive Analytics Quantum Computing
