@@ -4,3 +4,4 @@ Virtual Machines Lambda Functions Load Balancing Simplicity is the ultimate soph
 Database Indexing Container Orchestration Backend Replica Set WebSockets Code Review Pull Request Stay hungry, stay foolish.
 Artificial Intelligence Data Science Event-driven Architecture DNS Routing Framework Success is not in what you have, but who you are. Logging Cache Invalidation Security Stay hungry, stay foolish. Latency Optimization Message Queue Distributed Systems GraphQL The only way to do great work is to love what you do.
 Happiness is not something ready made. It comes from your own actions. Cloud Functions Agile Algorithm Firewalls NLP Data Science
+Multi-threading Quantum Computing API Content Delivery Network Replica Set NLP Zero Downtime Deployment Event-driven Architecture Load Testing Container Orchestration I find that the harder I work, the more luck I seem to have. Server Response Dream big and dare to fail. Firewalls Monitoring

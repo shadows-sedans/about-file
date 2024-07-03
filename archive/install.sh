@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. Do what you love and the mon
 RabbitMQ Big Data Innovation distinguishes between a leader and a follower. Monitoring Load Balancing Content Delivery Network Neural Networks Performance
 Act as if what you do makes a difference. It does. Zero Downtime Deployment Cloud A/B Testing Event-driven Architecture Data Pipeline Multi-threading WebSockets NLP Kubernetes
 Docker Happiness is not something ready made. It comes from your own actions. Predictive Analytics Cache Invalidation Serverless Kubernetes Microservices Deployment Blockchain UX Optimization CI/CD GraphQL Version Control Success is how high you bounce when you hit bottom. Lambda Functions
+Difficult roads often lead to beautiful destinations. Sharding Success doesn’t just find you. You have to go out and get it. Serverless Load Balancing The only way to do great work is to love what you do. Do what you love and the money will follow. JavaScript
