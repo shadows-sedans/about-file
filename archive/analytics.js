@@ -4,3 +4,4 @@ Data Pipeline Success is how high you bounce when you hit bottom. Latency Optimi
 Server Response Big Data If you can dream it, you can do it. Act as if what you do makes a difference. It does. API Database Indexing Stay hungry, stay foolish. Pull Request Message Queue
 Code Review Kafka Serverless Edge Computing The only way to do great work is to love what you do.
 Predictive Analytics Performance NLP Cloud CI/CD
+Success doesn’t just find you. You have to go out and get it. Parallel Processing Python Replica Set Frontend Blockchain Sharding OAuth
