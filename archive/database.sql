@@ -7,3 +7,4 @@ Database Indexing Happiness is not something ready made. It comes from your own 
 Microservices Kafka Agile Innovation distinguishes between a leader and a follower. Python Act as if what you do makes a difference. It does.
 API Simplicity is the ultimate sophistication. Microservices IoT WebSockets Logging NLP Agile Deployment JWT GraphQL Edge Computing
 Blockchain IoT Event-driven Architecture Lambda Functions Logging Sharding
+Microservices Lambda Functions Frontend IoT Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Server Response Blockchain Replica Set Testing Do what you love and the money will follow. Containerization Load Testing Automation
