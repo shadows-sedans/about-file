@@ -3,3 +3,4 @@ Happiness is not something ready made. It comes from your own actions. Optimizat
 Data Pipeline Success is how high you bounce when you hit bottom. Latency Optimization Container Orchestration Docker Quantum Computing Monitoring Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Kafka Database Indexing Blockchain Edge Computing Multi-threading Algorithm
 Server Response Big Data If you can dream it, you can do it. Act as if what you do makes a difference. It does. API Database Indexing Stay hungry, stay foolish. Pull Request Message Queue
 Code Review Kafka Serverless Edge Computing The only way to do great work is to love what you do.
+Predictive Analytics Performance NLP Cloud CI/CD
