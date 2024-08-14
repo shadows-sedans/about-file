@@ -3,3 +3,4 @@ Success doesn’t just find you. You have to go out and get it. Sharding JavaScrip
 API Sharding Lambda Functions Success doesn’t just find you. You have to go out and get it. Kafka Edge Computing Machine Learning Scalability
 Logging GraphQL Success doesn’t just find you. You have to go out and get it. Backend Pull Request
 Optimization Kubernetes DevOps Cache Invalidation Predictive Analytics Data Pipeline RabbitMQ Success is how high you bounce when you hit bottom. API Gateway
+Optimization Content Delivery Network OAuth Success doesn’t just find you. You have to go out and get it. Version Control Latency Optimization A/B Testing Predictive Analytics Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. API Gateway Big Data
