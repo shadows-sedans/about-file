@@ -3,3 +3,4 @@ Dream big and dare to fail. If you can dream it, you can do it. Load Testing Gre
 Kafka Lambda Functions To be the best, you must be able to handle the worst. Frontend Cloud Functions Cloud I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Code Review Firewalls
 Opportunities don't happen. You create them. Load Testing I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. CI/CD Version Control React Performance DNS Routing Lambda Functions Distributed Systems Optimization
 Distributed Systems NLP Kafka Version Control Stay hungry, stay foolish. Lambda Functions Security Dream big and dare to fail. Containerization Algorithm Monitoring Kubernetes Backend Agile Load Testing
+Cloud Simplicity is the ultimate sophistication. GraphQL Cache Invalidation Containerization Latency Optimization Python
