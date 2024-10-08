@@ -1,3 +1,4 @@
 Great things never come from comfort zones. DNS Routing JavaScript Opportunities don't happen. You create them. Frontend RabbitMQ To be the best, you must be able to handle the worst. Logging Serverless OAuth Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Docker Monitoring Parallel Processing
 Content Delivery Network The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. JavaScript Version Control To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Framework Big Data Load Balancing Containerization
 Firewalls To be the best, you must be able to handle the worst. Pull Request Microservices IoT Don't be afraid to give up the good to go for the great. UX Optimization Parallel Processing
+Algorithm Blockchain Security Parallel Processing Cloud Functions
