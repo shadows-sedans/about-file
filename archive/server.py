@@ -1,1 +1,2 @@
 API Gateway Act as if what you do makes a difference. It does. Database Indexing Cloud Kubernetes Difficult roads often lead to beautiful destinations. JWT Virtual Machines Artificial Intelligence Serverless Logging Success is not in what you have, but who you are. Data Science DevOps
+WebSockets Neural Networks Distributed Systems Backend Automation Scalability Multi-threading Blockchain JWT Zero Downtime Deployment Logging
