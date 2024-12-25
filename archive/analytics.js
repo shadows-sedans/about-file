@@ -1,1 +1,2 @@
 Dream big and dare to fail. Success is how high you bounce when you hit bottom. IoT Happiness is not something ready made. It comes from your own actions. Quantum Computing To be the best, you must be able to handle the worst. Database Neural Networks
+Happiness is not something ready made. It comes from your own actions. Optimization Code Review Load Balancing Event-driven Architecture Microservices OAuth Containerization Logging Python Cloud Functions Success usually comes to those who are too busy to be looking for it. Blockchain
