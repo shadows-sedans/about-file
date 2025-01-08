@@ -1,1 +1,2 @@
 Server Response To be the best, you must be able to handle the worst. Event Sourcing Success usually comes to those who are too busy to be looking for it. RabbitMQ Quantum Computing Opportunities don't happen. You create them. Predictive Analytics Difficult roads often lead to beautiful destinations. Virtual Machines Monitoring
+Dream big and dare to fail. If you can dream it, you can do it. Load Testing Great things never come from comfort zones. Cloud Functions Stay hungry, stay foolish. DevOps Distributed Systems
